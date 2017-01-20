@@ -20,7 +20,7 @@ if you wish to view this site [->Click Here<-](https://DVillars.github.io/zig-za
 + Ignores other numbers and displays them normally
   - Example Input : 7
   - Example Output : 1 | 2 | Zig | 4 | Zag | Zig | 7
-+ Replaces multiples of 15's with Zag _(or multiples of 3 and 5)_
++ Replaces multiples of 15's with Zig-Zag _(or multiples of 3 and 5)_
   - Example Input : 15
   - Example Output : 1 | 2 | Zig | 4 | Zag | Zig | 7 | 8 | Zig | Zag | 11 | Zig | 13 | 14 | Zig-Zag
 + Ignores other numbers and displays them normally
