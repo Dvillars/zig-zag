@@ -1,3 +1,7 @@
 .zigzag-bg {
   background-color: #a7ff75;
 }
+
+.result {
+  display: none;
+}
