@@ -1,7 +1,20 @@
 .zigzag-bg {
   background-color: #a7ff75;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.zigzag-tx {
+  color: #3b5b28;
 }
 
 .result {
   display: none;
+}
+
+body {
+  color: white;
+  text-shadow: -1px 1px 1px black;
+  background-color: #3b5b28;
 }
