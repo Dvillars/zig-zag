@@ -3,7 +3,9 @@ function zigZag(textInput) {
   var numberInput = parseInt(textInput);
   var arrayOutput = []
   for (var i = 1; i <= numberInput; i++) {
-    if (i % 5 === 0) {
+    if (i % 5 === 0 && i % 3 === 0) {
+      arrayOutput.push('Zig-Zag');
+    } else if (i % 5 === 0) {
       arrayOutput.push('Zig');
     } else if (i % 3 === 0) {
       arrayOutput.push('Zag');
@@ -11,7 +13,8 @@ function zigZag(textInput) {
       arrayOutput.push(i);
     }
   }
-  return arrayOutput.join(' | ');
+  var result = arrayOutput.join(' | ');
+  return result;
 };
 
   $(function(){

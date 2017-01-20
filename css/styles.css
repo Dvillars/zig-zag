@@ -1,11 +1,11 @@
-.zigzag-bg {
+.zigzagBg {
   background-color: #a7ff75;
   margin: 5px;
   border-radius: 10px;
   padding: 10px;
 }
 
-.zigzag-tx {
+.zigzagTx {
   color: #3b5b28;
 }
 
