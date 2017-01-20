@@ -2,7 +2,7 @@
 #### _**By: Derek Villars**_
 
 ## _Link to Site (using github pages)_
-if you wish to view this site [->Click Here<-](https://DVillars.github.io/zig-zag.git) it should open right away.
+if you wish to view this site [->Click Here<-](https://DVillars.github.io/zig-zag) it should open right away.
 
 ## _Setup/Installation Requirements_
  After Cloning this repository to your computer you need to open the index.html file and the website should open up in your browser.
