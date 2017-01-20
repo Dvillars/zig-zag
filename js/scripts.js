@@ -1,9 +1,11 @@
 
 function zigZag(textInput) {
   var numberInput = parseInt(textInput);
+  var arrayOutput = []
 	for (var i = 1; i <= numberInput; i++) {
-		console.log(i);
+		arrayOutput.push(i);
 	}
+  return arrayOutput.join(' | ');
 };
 
 $(function(){
