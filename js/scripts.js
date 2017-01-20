@@ -23,5 +23,6 @@ function zigZag(textInput) {
       var textInput = $("#textInput").val();
       var result = zigZag(textInput);
       $(".result").text(result).slideDown();
+      $("#textInput").val('');
     })
   });
